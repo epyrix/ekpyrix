@@ -1,4 +1,4 @@
-# /Users/fnnyx <sub>(fennec)</sub>
+# /Users/ekpyrix
 
 ```md
 # About me
