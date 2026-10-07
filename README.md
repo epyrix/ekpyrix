@@ -1,4 +1,4 @@
-# /Users/ekpyrix
+# /Users/epyrix
 
 ```md
 # About me
